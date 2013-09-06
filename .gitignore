@@ -1,0 +1,11 @@
+.project
+.classpath
+.idea
+.classpath/**
+target/**
+.settings/**
+.idea/**
+bin/**
+.hg/**
+.DS_Store
+tmp/**
